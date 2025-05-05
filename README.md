@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/origin/2e/2e078720291e52cef0114917207ccde7_w200.gif)
+![MasterHead](https://www.apollowebdesigns.in/images/2018/03/03/banner_02_apps.gif)
 
 <h1 align="center">Hi 👋, I'm Gaurav Jakhar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
